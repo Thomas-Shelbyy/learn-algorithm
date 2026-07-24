@@ -1,2 +1,3 @@
 console.log("something"); // commit 1
 console.log("something"); // commit 2
+console.log("something"); // commit 3
