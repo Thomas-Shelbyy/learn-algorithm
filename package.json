@@ -1,0 +1,14 @@
+{
+  "name": "pr-badge-bot",
+  "version": "1.0.0",
+  "description": "Automated branch commit + PR creator (hafiz-sakib -> thomas-shelby repo).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "dotenv": "^16.4.5",
+    "simple-git": "^3.25.0"
+  }
+}
